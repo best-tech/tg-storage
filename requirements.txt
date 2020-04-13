@@ -1,0 +1,7 @@
+gunicorn
+uvicorn
+telethon
+pillow
+cryptg
+quart
+hypercorn
